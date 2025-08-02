@@ -4,10 +4,10 @@ Hi 👋 My name is Venkatesh Kadali
 Flutter Developer and Android Native Developer
 ----------------------------------------------
 
-- 💻 Working as a Flutter Developer.
+- 💻 Working as a React and Flutter Developer.
 - ⚾ Playing with [Flutter](https://flutter.dev) since 2019
 - ✉️  You can contact me at [venkatesh.vk999@gmail.com](mailto:venkatesh.vk999@gmail.com)
-- 🧠  I'm learning ReactJS
+- 🧠  I'm NodeJS
 
 
 ### Languages and Tools
