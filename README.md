@@ -7,7 +7,7 @@ Flutter Developer and Android Native Developer
 - 💻 Working as a React and Flutter Developer.
 - ⚾ Playing with [Flutter](https://flutter.dev) since 2019
 - ✉️  You can contact me at [venkatesh.vk999@gmail.com](mailto:venkatesh.vk999@gmail.com)
-- 🧠  I'm NodeJS
+- 🧠  I'm learning NodeJS
 
 
 ### Languages and Tools
